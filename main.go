@@ -14,6 +14,7 @@ import (
 
 var (
     key = "JWHQZM9Z4HQOYICDHW4OCJAXPPNHBA"
+    UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
 )
 
 func pickName(chars int) string {
